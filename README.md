@@ -1,6 +1,8 @@
 # sprints
 Code sprints
 
+## Open Source Software Projects
+
 * [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py)
   * [Issues](https://github.com/QuantEcon/QuantEcon.py/issues)
   * [Information for Developers](http://quantecon.org/python_developers.html)
@@ -13,3 +15,5 @@ Code sprints
   * [Issues](https://github.com/QuantEcon/Games.jl/issues)
 
 * [QuantEcon Open Notebook Archive](http://quantecon.org/notebooks.html)
+
+* [QuantEcon.applications](https://github.com/QuantEcon/QuantEcon.applications)
