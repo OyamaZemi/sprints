@@ -23,11 +23,11 @@ quantecon.game_theory/Games.jl
 * [ ] Implement `is_supermodular`
 * [ ] Implement `has_potential`
 
-QuantEcon.applications
+[QuantEcon.applications](https://github.com/QuantEcon/QuantEcon.applications)
 
 * Solution notebook のリンク切れを探して直す
 
-QuantEcon Open Notebook Archive
+[QuantEcon Open Notebook Archive](http://quantecon.org/notebooks.html)
 
 * Python 版を Julia に翻訳する
   * [ ] [Finite Markov Chains: Examples](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/markov_chain_ex01_py.ipynb)
