@@ -26,8 +26,10 @@ quantecon.game_theory/Games.jl
 [QuantEcon.applications](https://github.com/QuantEcon/QuantEcon.applications)
 
 * Solution notebook のリンク切れを探して直す
+* Python notebook から `from future` を消す:
+  [Issue #12](https://github.com/QuantEcon/QuantEcon.applications/issues/12)
 
-[QuantEcon Open Notebook Archive](http://quantecon.org/notebooks.html)
+[QuantEcon.notebooks](https://github.com/QuantEcon/QuantEcon.notebooks)
 
 * Python 版を Julia に翻訳する
   * [ ] [Finite Markov Chains: Examples](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/markov_chain_ex01_py.ipynb)
