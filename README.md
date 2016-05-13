@@ -22,3 +22,10 @@ Code sprints
 * [QuantEcon Open Notebook Archive](http://quantecon.org/notebooks.html)
 
 * [QuantEcon.applications](https://github.com/QuantEcon/QuantEcon.applications)
+
+
+## 情報
+
+* [Resources for Developers](http://quantecon.org/developer_resources.html)
+* [初心者でもできるはじめてのPull Request](http://lv4.hateblo.jp/entry/2015/04/05/120929)
+* [SourceTreeでコミットをまとめる時のメモ](http://seeku.hateblo.jp/entry/2015/10/14/091822)
