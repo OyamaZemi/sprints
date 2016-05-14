@@ -25,7 +25,7 @@ quantecon.game_theory/Games.jl
 
 [QuantEcon.applications](https://github.com/QuantEcon/QuantEcon.applications)
 
-* [ ] Solution notebook のリンク切れを探して直す
+* [x] Solution notebook のリンク切れを探して直す
 * [x] Python notebook から `from future` を消す:
   [Issue #12](https://github.com/QuantEcon/QuantEcon.applications/issues/12)
 
