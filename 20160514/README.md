@@ -13,6 +13,8 @@ QuantEcon.jl
   [Issue #83](https://github.com/QuantEcon/QuantEcon.jl/issues/83)
 * [ ] `random_stochastic_matrix` and `random_markov_chain` support sparse output:
   [Issue #102](https://github.com/QuantEcon/QuantEcon.jl/issues/102)
+* [x] `src/QuantEcon.jl` の改訂
+  → [Merged](https://github.com/QuantEcon/QuantEcon.jl/pull/110)
 
 quantecon.game_theory/Games.jl
 
