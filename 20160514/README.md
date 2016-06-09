@@ -31,6 +31,7 @@ quantecon.game_theory/Games.jl
   → [Merged](https://github.com/QuantEcon/QuantEcon.applications/pull/26)
 * [x] Python notebook から `from future` を消す:
   [Issue #12](https://github.com/QuantEcon/QuantEcon.applications/issues/12)
+  → [Merged](https://github.com/QuantEcon/QuantEcon.applications/pull/24)
 
 [QuantEcon.notebooks](https://github.com/QuantEcon/QuantEcon.notebooks)
 
