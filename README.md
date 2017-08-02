@@ -21,7 +21,7 @@ Code sprints
 
 * [QuantEcon Open Notebook Archive](http://quantecon.org/notebooks.html)
 
-* [QuantEcon.applications](https://github.com/QuantEcon/QuantEcon.applications)
+* [MatchingMarkets.jl](https://github.com/oyamad/MatchingMarkets.jl)
 
 
 ## 情報
