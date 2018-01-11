@@ -32,3 +32,25 @@ Code sprints
 * [初心者でもできるはじめてのPull Request](http://lv4.hateblo.jp/entry/2015/04/05/120929)
 * [SourceTreeでコミットをまとめる時のメモ](http://seeku.hateblo.jp/entry/2015/10/14/091822)
 * [すぐ忘れる！SourceTreeを使ったリベースとスカッシュの手順](http://qiita.com/ryounagaoka/items/7c129e98a7f81c507a61)
+* [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)
+
+
+## 作業の手順
+
+0. 当該プロジェクトのレポをフォークする．
+   * SourceTree でローカル・コンピュータにフォークのクローンを作る．
+   * 本家のレポを「リモートを追加」で追加する ("upstream" とか名前をつける)．
+1. 作業を始める前に「フェッチ」「プル」で `master` ブランチを本家と同期させる．
+2. 必ず新しいブランチを作って作業する (`master` は同期用としてのみ使う)．
+3. 実際にファイルを編集する．
+   * コードを書く．
+   * Docstring を書く．
+   * テストを書く．
+   * スタイルガイドに従って書くこと．
+4. コミットする．
+   * コミットメッセージを内容がわかるようにちゃんと書くこと．
+5. 更新版のパッケージをインストールし，テストを実行してちゃんと通るか確認する．
+6. GitHub にプッシュする．
+7. プルリクエストを出す．
+   * 内容がわかるようにメッセージを書く．
+   * 関連 issue があるときは，"Close #123" (123 のところは issue 番号を入れる) と書いておくと，マージされたときに issue も同時に閉じられる．
