@@ -8,8 +8,9 @@
     [Issue #366](https://github.com/QuantEcon/QuantEcon.py/issues/366)
   * [ ] kalman.py: Add `method` option:
     [Issue #367](https://github.com/QuantEcon/QuantEcon.py/issues/367)
-  * [ ] pure_nash_brute: Add `tol` option:
+  - [x] pure_nash_brute: Add `tol` option:
     [Issue #381](https://github.com/QuantEcon/QuantEcon.py/issues/381) (Easy)
+    → [Merged](https://github.com/QuantEcon/QuantEcon.py/pull/385)
 
 * QuantEcon.jl
   * Some Projects that are Available for Future Work:
