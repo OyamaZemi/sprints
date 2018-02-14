@@ -27,7 +27,7 @@
     [Issue #21](https://github.com/QuantEcon/Games.jl/issues/21)
   * [ ] Add is_dominated:
     [Issue #44](https://github.com/QuantEcon/Games.jl/issues/44)
-  * [ ] Return type of support_enumeration:
+  - [x] Return type of support_enumeration:
     [Issue #63](https://github.com/QuantEcon/Games.jl/issues/63) (Easy)
 
 * [QuantEcon.notebooks](https://github.com/QuantEcon/QuantEcon.notebooks)
