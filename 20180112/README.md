@@ -22,10 +22,10 @@
   * [ ] Fix deprecation warning in test_lae.jl:
     [Issue #200](https://github.com/QuantEcon/QuantEcon.jl/issues/200) (Very easy)
 
-* Games.jl
-  * [ ] Add tol option to best response related methods:
+- Games.jl
+  - [x] Add tol option to best response related methods:
     [Issue #21](https://github.com/QuantEcon/Games.jl/issues/21)
-  * [ ] Add is_dominated:
+  - [ ] Add is_dominated:
     [Issue #44](https://github.com/QuantEcon/Games.jl/issues/44)
   - [x] Return type of support_enumeration:
     [Issue #63](https://github.com/QuantEcon/Games.jl/issues/63) (Easy)
