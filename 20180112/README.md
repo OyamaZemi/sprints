@@ -15,11 +15,11 @@
 * QuantEcon.jl
   * Some Projects that are Available for Future Work:
     [Issue #83](https://github.com/QuantEcon/QuantEcon.jl/issues/83)
-  * [ ] Drop `num_actions` from DiscreteDP:
+  - [x] Drop `num_actions` from DiscreteDP:
     [Issue #103](https://github.com/QuantEcon/QuantEcon.jl/issues/103) (Very easy)
   * [ ] DiscreteDP: Add backward_induction:
     [Issue #172](https://github.com/QuantEcon/QuantEcon.jl/issues/172)
-  * [ ] Fix deprecation warning in test_lae.jl:
+  - [x] Fix deprecation warning in test_lae.jl:
     [Issue #200](https://github.com/QuantEcon/QuantEcon.jl/issues/200) (Very easy)
 
 - Games.jl
