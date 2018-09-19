@@ -3,6 +3,7 @@ Code sprints
 
 ## Events
 
+* [2018/9/20-21](20180920) @ゼミ合宿
 * [2018/1/12](20180112) @第4共同研究室 (10F) 10:00-16:00
 * [2016/5/14](20160514)
 
@@ -19,6 +20,8 @@ Code sprints
 
 * [Games.jl](https://github.com/QuantEcon/Games.jl)
   * [Issues](https://github.com/QuantEcon/Games.jl/issues)
+
+* [QuantEcon Notes](http://notes.quantecon.org)
 
 * [QuantEcon Open Notebook Archive](http://quantecon.org/notebooks.html)
 
