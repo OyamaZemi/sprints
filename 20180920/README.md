@@ -26,3 +26,6 @@
 
 - [MatchingMarkets.jl](https://github.com/oyamad/MatchingMarkets.jl)
   - 入出力の type を設計・実装する
+
+- [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl)
+  - [ ] Julia version 1.0 に対応させる
