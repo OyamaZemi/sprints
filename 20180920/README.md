@@ -1,10 +1,10 @@
 # 2018/9/20-21
 
-- QuantEcon.py
-  - [ ] `from future import ...` をすべて消す (Very easy)
+* QuantEcon.py
+  - [x] `from future import ...` をすべて消す (Very easy)
   - [ ] Vectorize `ecdf`:
     [Issue #97](https://github.com/QuantEcon/QuantEcon.py/issues/97)
-  - [ ] robustlq.py: Add `method` option:
+  * [x] robustlq.py: Add `method` option:
     [Issue #366](https://github.com/QuantEcon/QuantEcon.py/issues/366)
   - [ ] kalman.py: Add `method` option:
     [Issue #367](https://github.com/QuantEcon/QuantEcon.py/issues/367)
@@ -28,4 +28,4 @@
   - 入出力の type を設計・実装する
 
 - [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl)
-  - [ ] Julia version 1.0 に対応させる
+  - [x] Julia version 1.0 に対応させる
