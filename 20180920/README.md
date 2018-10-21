@@ -6,7 +6,7 @@
     [Issue #97](https://github.com/QuantEcon/QuantEcon.py/issues/97)
   * [x] robustlq.py: Add `method` option:
     [Issue #366](https://github.com/QuantEcon/QuantEcon.py/issues/366)
-  - [ ] kalman.py: Add `method` option:
+  * [x] kalman.py: Add `method` option:
     [Issue #367](https://github.com/QuantEcon/QuantEcon.py/issues/367)
 
 - QuantEcon.jl
