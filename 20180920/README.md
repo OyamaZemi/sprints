@@ -9,14 +9,14 @@
   * [x] kalman.py: Add `method` option:
     [Issue #367](https://github.com/QuantEcon/QuantEcon.py/issues/367)
 
-- QuantEcon.jl
+* QuantEcon.jl
   - Some Projects that are Available for Future Work:
     [Issue #83](https://github.com/QuantEcon/QuantEcon.jl/issues/83)
-  - [ ] DiscreteDP: Add backward_induction:
+  - [x] DiscreteDP: Add backward_induction:
     [Issue #172](https://github.com/QuantEcon/QuantEcon.jl/issues/172)
 
-- Games.jl
-  - [ ] Add is_dominated:
+* Games.jl
+  - [x] Add is_dominated:
     [Issue #44](https://github.com/QuantEcon/Games.jl/issues/44)
 
 - [QuantEcon.notebooks](https://github.com/QuantEcon/QuantEcon.notebooks)
