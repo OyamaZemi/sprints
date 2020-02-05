@@ -36,6 +36,7 @@ Code sprints
 * [SourceTreeでコミットをまとめる時のメモ](http://seeku.hateblo.jp/entry/2015/10/14/091822)
 * [すぐ忘れる！SourceTreeを使ったリベースとスカッシュの手順](http://qiita.com/ryounagaoka/items/7c129e98a7f81c507a61)
 * [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)
+* [Git関連で忘れちゃうことのまとめ](https://github.com/Yuya-Furusawa/Self-Study/blob/master/Git_cheat.md) by Yuya-Furusawa
 
 
 ## 作業の手順
