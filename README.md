@@ -12,11 +12,11 @@ Code sprints
 
 * [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py)
   * [Issues](https://github.com/QuantEcon/QuantEcon.py/issues)
-  * [Information for Developers](http://quantecon.org/python_developers.html)
+  * [Contribute to QuantEcon.py](https://quantecon.org/python-developers/)
 
 * [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl)
   * [Issues](https://github.com/QuantEcon/QuantEcon.jl/issues)
-  * [Information for Developers](http://quantecon.org/julia_developers.html)
+  * [Contribute to QuantEcon.jl](https://quantecon.org/julia-developers/)
 
 * [Games.jl](https://github.com/QuantEcon/Games.jl)
   * [Issues](https://github.com/QuantEcon/Games.jl/issues)
@@ -31,7 +31,7 @@ Code sprints
 ## 情報
 
 * [StudyNotes](https://github.com/OyamaZemi/StudyNotes)
-* [Resources for Developers](http://quantecon.org/developer_resources.html)
+* [Get Involved](https://quantecon.org/contribute/) - quantecon.org
 * [初心者でもできるはじめてのPull Request](http://lv4.hateblo.jp/entry/2015/04/05/120929)
 * [SourceTreeでコミットをまとめる時のメモ](http://seeku.hateblo.jp/entry/2015/10/14/091822)
 * [すぐ忘れる！SourceTreeを使ったリベースとスカッシュの手順](http://qiita.com/ryounagaoka/items/7c129e98a7f81c507a61)
