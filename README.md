@@ -10,28 +10,22 @@ Code sprints
 
 ## Open Source Software Projects
 
-* [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py)
-  * [Issues](https://github.com/QuantEcon/QuantEcon.py/issues)
-  * [Contribute to QuantEcon.py](https://quantecon.org/python-developers/)
-
-* [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl)
-  * [Issues](https://github.com/QuantEcon/QuantEcon.jl/issues)
-  * [Contribute to QuantEcon.jl](https://quantecon.org/julia-developers/)
-
-* [Games.jl](https://github.com/QuantEcon/Games.jl)
-  * [Issues](https://github.com/QuantEcon/Games.jl/issues)
-
-* [QuantEcon Notes](http://notes.quantecon.org)
-
-* [QuantEcon Open Notebook Archive](http://quantecon.org/notebooks.html)
-
-* [MatchingMarkets.jl](https://github.com/oyamad/MatchingMarkets.jl)
+* [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py)  
+  * [Issues](https://github.com/QuantEcon/QuantEcon.py/issues)  
+  * [Contribute to QuantEcon.py](https://quantecon.org/python-developers/)  
+* [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl)  
+  * [Issues](https://github.com/QuantEcon/QuantEcon.jl/issues)  
+  * [Contribute to QuantEcon.jl](https://quantecon.org/julia-developers/)  
+* [GameTheory.jl](https://github.com/QuantEcon/GameTheory.jl)  
+  * [Issues](https://github.com/QuantEcon/GameTheory.jl/issues)  
+* [QuantEcon Notebook Gallery](https://github.com/QuantEcon/notebook-gallery)  
+* [Game Theory Notebooks](https://github.com/QuantEcon/game-theory-notebooks)  
+* [MatchingMarkets.jl](https://github.com/oyamad/MatchingMarkets.jl)  
 
 
 ## 情報
 
 * [StudyNotes](https://github.com/OyamaZemi/StudyNotes)
-* [Get Involved](https://quantecon.org/contribute/) - quantecon.org
 * [初心者でもできるはじめてのPull Request](http://lv4.hateblo.jp/entry/2015/04/05/120929)
 * [SourceTreeでコミットをまとめる時のメモ](http://seeku.hateblo.jp/entry/2015/10/14/091822)
 * [すぐ忘れる！SourceTreeを使ったリベースとスカッシュの手順](http://qiita.com/ryounagaoka/items/7c129e98a7f81c507a61)
@@ -44,8 +38,8 @@ Code sprints
 0. 貢献先プロジェクトのレポをフォークする．
    * SourceTree でフォークの URL から新規リポジトリを作る．
    * 本家のレポを「リモートを追加」で追加する ("upstream" とか名前をつける)．
-1. 作業を始める前に「フェッチ」「プル」で `master` ブランチを本家と同期させる．
-2. 必ず新しいブランチを作って作業する (`master` は同期用としてのみ使う)．
+1. 作業を始める前に「フェッチ」「プル」で `main` ブランチを本家と同期させる．
+2. 必ず新しいブランチを作って作業する (`main` は同期用としてのみ使う)．
 3. 実際にファイルを編集する．
    * コードを書く．
    * Docstring を書く．
